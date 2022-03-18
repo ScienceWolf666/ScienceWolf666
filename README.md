@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Michał
-#### I am CEO of Magic Players
+#### **I am CEO of Magic Players**
 ![I am CEO of Magic Players](https://magicplayersmc.pl/Baner1)
 
 The owner and developer of the "Magic Players" Server Network
