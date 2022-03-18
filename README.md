@@ -5,7 +5,7 @@
 ### Hej Jestem Michał ( Science_Wolf )! Jestem Właścicielem Sieci Serwerów 🤣Magic Players🤬
 
 - 🌐 - Strona Internetowa: [Click me!] (https://magicplayersmc.pl/)
-- 🌐 - Strona Google: [Click me!] (https://www.google.com/search?q=magicplayersmc&rlz=1C1GCEB_enPL874PL874&oq=magicplayersmc&aqs=chrome.0.69i59j69i60l5.598j0j7&sourceid=chrome&ie=UTF)
+- 🌐 - Strona Google: [Click me!] (q=magicplayersmc&rlz=1C1GCEB_enPL874PL874&oq=magicplayersmc&aqs=chrome.0.69i59j69i60l5.598j0j7&sourceid=chrome&ie=UTF)
 - 🔰 - Serwer Discord: [Click me!] (https://discord.com/invite/6Q8dsEqkpA)
 - ⬜🟥- Kraj: Polska 
 - 🔨 - Główne Języki Programowania: HTML5, PhP, C# , Python, Bash, Visual Basic
