@@ -36,5 +36,3 @@ Dysk Na Dane : M.2 Plextor M9Pe 512GB
 Monitor : 2x LG 24MP59G 75Hz
 VR: Oculus Quest 2
 -------------------------------------------------------------------------------------------------------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
