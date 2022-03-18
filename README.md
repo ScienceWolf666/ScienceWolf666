@@ -1,37 +1,28 @@
--------------------------------------------------------------------------------------------------------
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀        ❕ INFORMACJE OGÓLNE ❕
--------------------------------------------------------------------------------------------------------
+### Hi there 👋, my name is Michał
+#### I am CEO of Magic Players
+![I am CEO of Magic Players](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-### Hej Jestem Michał ( Science_Wolf )! Jestem Właścicielem Sieci Serwerów 🤣Magic Players🤬
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-- 🌐 - Strona Internetowa: [Click me!] (https://magicplayersmc.pl/)
-- 🌐 - Strona Google: [Click me!] (q=magicplayersmc&rlz=1C1GCEB_enPL874PL874&oq=magicplayersmc&aqs=chrome.0.69i59j69i60l5.598j0j7&sourceid=chrome&ie=UTF)
-- 🔰 - Serwer Discord: [Click me!] (https://discord.com/invite/6Q8dsEqkpA)
-- ⬜🟥- Kraj: Polska 
-- 🔨 - Główne Języki Programowania: HTML5, PhP, C# , Python, Bash, Visual Basic
-- 🔌 - Główne Działy IT: Zarządzanie Serwerowymi Systemami Operacyjnymi, Zarządzanie i Administracja Siecią, Pentesting, Web Development
--------------------------------------------------------------------------------------------------------
+Skills: HTML5 / CSS / PHP / C# / Python / Bash 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ScienceWolf666)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on this page. 
 
--------------------------------------------------------------------------------------------------------
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 💻 Główny Komputer - Specyfikacja 💻
-------------------------------------------------------------------------------------------------------- 
-- Oprogramowanie: Windows 10 PRO
-- Karta graficzna: MSI GeForce RTX 2060 VENTUS OC 6GB
-- Obudowa: Signum SG1 TG
-- Zasilacz: SilentiumPC Supremo FM2 750W 80 Plus Gold
-- Płyta Główna: MSI MPG Z390 GAMING PRO CARBON AC
-- Procesor: i9-9900KF 5.0 GHz
-- Chłodzenie Procesora Wodne : MSI MAG Core Liquid 280R
-- Chłodzenie Obudowy : 3x Corsair LL120 RGB LED 120mm 1x SilentiumPC Zephyr 120
-- Pamięć RAM: 32GB (8x4) DDR4 HyperX Fury 3200Mhz
-- Myszka: Razer Basilisk V3
-- Klawiatura: Razer BlackWidow Elite Green Switch
-- Słuchawki: SteelSeries Arctis 5 Black
-- Dysk Systemowy: SSD Samsung 860 EVO 250GB
-- Dysk Na Dane : HDD WD BLUE 1TBːppg_wrenchː
-- Dysk Na Dane : M.2 Plextor M9Pe 512GB
-- Monitor : 2x LG 24MP59G 75Hz
-- VR: Oculus Quest 2
--------------------------------------------------------------------------------------------------------
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ScienceWolf666)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ScienceWolf666)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScienceWolf666)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ScienceWolf666&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ScienceWolf666)  
+
+![GitHub metrics](https://metrics.lecoq.io/ScienceWolf666)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ScienceWolf666)  
+
+![Profile views](https://gpvc.arturio.dev/ScienceWolf666)  
