@@ -10,6 +10,8 @@
 - ⬜🟥- Kraj: Polska 
 - 🔨 - Główne Języki Programowania: HTML5, PhP, C# , Python, Bash, Visual Basic
 - 🔌 - Główne Działy IT: Zarządzanie Serwerowymi Systemami Operacyjnymi, Zarządzanie i Administracja Siecią, Pentesting, Web Development
+- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 
 -------------------------------------------------------------------------------------------------------
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 💻 Główny Komputer - Specyfikacja 💻
