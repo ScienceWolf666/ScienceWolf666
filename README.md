@@ -142,3 +142,19 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ScienceWolf666)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ScienceWolf666)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ScienceWolf666)  
+
+![GitHub metrics](https://metrics.lecoq.io/ScienceWolf666)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ScienceWolf666)  
+
+
