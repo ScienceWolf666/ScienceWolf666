@@ -142,8 +142,12 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 
+<div align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ScienceWolf666)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
+  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ScienceWolf666)  
 
 <div align="center">
