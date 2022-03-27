@@ -147,10 +147,10 @@ If things goes well, this section should automatically be replaced by a list of 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ScienceWolf666)  
 
 ![GitHub metrics](https://metrics.lecoq.io/ScienceWolf666)  
-
+<div align="center">
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ScienceWolf666)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScienceWolf666)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 
