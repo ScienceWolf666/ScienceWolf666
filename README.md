@@ -160,10 +160,14 @@ If things goes well, this section should automatically be replaced by a list of 
   
 </div>
 
-### <div>
+<div align="center">
   
  --- USŁUGI --- 
 
+</div>
+
+<div>
+  
 1. TWORZENIE STRONY INTERNETOWEJ NA ZAMÓWIENIE ( HTML5 ,CSS , Js ): 300zł - 2000zł 
 2. HOSTING STRONY INTERNETOWEJ ORAZ ZARZĄDZANIE,NADZOROWANIE SERWERA VPS ( atthost.pl ): 100zł - 300zł 
 3. SPRZEDARZ PROGRAMÓW DO ZDALNEJ ADMINISTRACJI SYSTEMAMI OPERACYJNYMI ( R.A.T ) ( WINDOWS, LINUX ): 50zł - 100zł
@@ -172,7 +176,5 @@ If things goes well, this section should automatically be replaced by a list of 
 W PRZYPADKU WSZYSTKICH USŁUG GWARANTUJE 7 dniowy 24 godzinny SUPPORT ODNOŚCNIE POPRAWNOŚCI DZIAŁANIA ORAZ FUNKCJONALNOŚCI USŁUG.
 
 Contact: Gmail: michaleblowski@gmail.com / Discord: Science_Wolf#6666
-
---- USŁUGI ---  
 
 </div>
