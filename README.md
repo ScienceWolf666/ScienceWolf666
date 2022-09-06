@@ -156,7 +156,7 @@ If things goes well, this section should automatically be replaced by a list of 
   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ScienceWolf666)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScienceWolf666)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScienceWolf666&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
