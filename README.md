@@ -3,7 +3,7 @@
 </div>  
   
 
-## Hey 👋, I'm Rishav Anand! 
+## Hey 👋, I'm ScienceWolf!, a full-time full-stack freelance developer and CEO of Magic Players© and WolfArmaTech© 👨‍💻 
 
 
 
