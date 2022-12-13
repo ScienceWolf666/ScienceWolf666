@@ -131,6 +131,13 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScienceWolf666&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ScienceWolf666)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub metrics](https://metrics.lecoq.io/ScienceWolf666)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ScienceWolf666)  
+
+
 </td></tr></table>  
 
 <br/>  
