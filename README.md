@@ -126,6 +126,9 @@
 
 <table><tr><td valign="top" width="50%">
 
+   
+  
+
 - ❓ If you have any questions related to the technologies I use or about the Magic Players© network, don't be afraid to write to me, Psssstt! don't worry, i don't bite! ;)  
   
 
