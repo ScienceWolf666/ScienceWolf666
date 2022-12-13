@@ -1,3 +1,13 @@
+<div align="center">
+<img src="https://magicplayersmc.pl/FTP/DANE/images_use_in_network/Baner4_Magic_Players.png" align="center" style="width: 100%" />
+</div>  
+  
+
+## Hey 👋, I'm Rishav Anand! 
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on [X]<br>👯 I’m looking to collaborate on [X]<br>🤝 I’m looking for help with [X]<br>🌱 I’m currently learning [X]<br>💬 Ask me about [X]<br>⚡ Fun fact [X]
 
