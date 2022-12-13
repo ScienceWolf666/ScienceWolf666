@@ -126,9 +126,6 @@
 
 <table><tr><td valign="top" width="50%">
 
-   
-  
-
 - ❓ If you have any questions related to the technologies I use or about the Magic Players© network, don't be afraid to write to me, Psssstt! don't worry, i don't bite! ;)  
   
 
@@ -146,6 +143,45 @@
 <div align="center">
 <img src="https://magicplayersmc.pl/ftp/DANE/images_use_in_network/PoweredByScienceWolfMarkLogoconcept1.png" align="center" style="width: 100%" />
 </div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
+## **<div align="center">🔌 ┃ Hardware Technical Specifications of my setups</div>**  
+  
+
+<br/>  
+
+<table><tr><td valign="top" width="50%">
+
+
+
+### 🖥 ┃ Main PC  
+- X-X-X = X-X-X = X-X-X X-X-X = X-X-X = X-X-X   
+  
+
+
+
+### 🗄️ ┃ SERWER-HOME-1  
+- X-X-X = X-X-X = X-X-X X-X-X = X-X-X = X-X-X  
+  
+
+
+
+### 🗄️ ┃ SERWER-HOME-2  
+- X-X-X = X-X-X = X-X-X X-X-X = X-X-X = X-X-X  
+  
+
+
+
+### 🗄️ ┃ SERWER-HOME-3  
+- X-X-X = X-X-X = X-X-X X-X-X = X-X-X = X-X-X  
+
+
+</td><td valign="top" width="50%">
+
 
 
 </td></tr></table>  
