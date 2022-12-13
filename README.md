@@ -31,7 +31,10 @@
 
 
 
-### Glad to see you here$2!  
+### ✔┃ Support / Contact  
+- I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.  
+  
+
 - I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.  
   
 
@@ -46,7 +49,7 @@
 
 
 
-### 🛠 ┃ Languages and Tools:  
+### 🛠 ┃ Languages, Technologies and Tools:  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
@@ -154,37 +157,29 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
 
 
-
-### 🖥 ┃ Main PC  
-- X-X-X = X-X-X = X-X-X X-X-X = X-X-X = X-X-X   
+### 🖥 ┃ Main PC   
+- writing in progress ...  
   
 
 
 
 ### 🗄️ ┃ SERWER-HOME-1  
-- X-X-X = X-X-X = X-X-X X-X-X = X-X-X = X-X-X  
+- writing in progress ...  
   
 
 
 
 ### 🗄️ ┃ SERWER-HOME-2  
-- X-X-X = X-X-X = X-X-X X-X-X = X-X-X = X-X-X  
+- writing in progress ...  
   
 
 
 
 ### 🗄️ ┃ SERWER-HOME-3  
-- X-X-X = X-X-X = X-X-X X-X-X = X-X-X = X-X-X  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+- writing in progress ...  
+  
 
 <br/>  
 
