@@ -6,6 +6,9 @@
 ## <div align="center">Hi! 👋 My name is Michal, You can call me ScienceWolf 🤘</div>  
   
 
+![](https://raw.githubusercontent.com/VishwaGauravIn/VishwaGauravIn/e2c956f864112ca5f82896fe851be394d6d1725a/github-contribution-grid-snake.svg)  
+  
+
 
 
 ### 🌐┃Socials:  
@@ -42,19 +45,16 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
   
 
-![](https://raw.githubusercontent.com/VishwaGauravIn/VishwaGauravIn/e2c956f864112ca5f82896fe851be394d6d1725a/github-contribution-grid-snake.svg)  
-  
-
 <br/>  
 
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Magic Players© and WolfArmaTech©](https://magicplayersmc.pl/)  
+- ❓ If you have any questions related to the technologies I use or about the Magic Players© network, don't be afraid to write to me, Psssstt! don't worry, i don't bite! ;)  
   
 
-- ❓ If you have any questions related to the technologies I use or about the Magic Players© network, don't be afraid to write to me, Psssstt! don't worry, i don't bite! ;)  
+- 🔭 I’m currently working on [Magic Players© and WolfArmaTech©](https://magicplayersmc.pl/)  
   
 
 - 🌱 I’m currently learning Kubernetes, Docker and Firebase  
@@ -66,7 +66,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://magicplayersmc.pl/ftp/DANE/images_use_in_network/PoweredByScienceWolfMarkLogoconcept1.png" align="center" height="250" width="" />
+<img src="https://magicplayersmc.pl/ftp/DANE/images_use_in_network/PoweredByScienceWolfMarkLogoconcept1.png" align="center" style="width: 100%" />
 </div>  
 
 
@@ -151,4 +151,3 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
