@@ -1,72 +1,42 @@
+## <div align="center">Hi! 👋 My name is Michal, You can call me ScienceWolf 🤘</div>  
+  
+
 <div align="center">
 <img src="https://magicplayersmc.pl/FTP/DANE/images_use_in_network/Baner4_Magic_Players.png" align="center" style="width: 100%" />
 </div>  
   
 
-## <div align="center">Hi! 👋 My name is Michal, You can call me ScienceWolf 🤘</div>  
-  
-
-![](https://raw.githubusercontent.com/VishwaGauravIn/VishwaGauravIn/e2c956f864112ca5f82896fe851be394d6d1725a/github-contribution-grid-snake.svg)  
-  
-
-
-
-### 🌐┃Socials:  
 <div align="center">
-<a href="https://github.com/ScienceWolf666" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/sciencewolf" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ScienceWolf" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/100040958692866" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/ScienceWolf666 " target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/Science_Wolf" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/science-wolf" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
+<img src="https://raw.githubusercontent.com/VishwaGauravIn/VishwaGauravIn/e2c956f864112ca5f82896fe851be394d6d1725a/github-contribution-grid-snake.svg" align="center" style="width: 100%" />
 </div>  
+  
+
+<br/>  
+
+<table><tr><td valign="top" width="50%">
+
+# 🧾┃ About me!   
   
 
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+- I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.  
   
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- ❓ If you have any questions related to the technologies I use or about the Magic Players© network, don't be afraid to write to me, Psssstt! don't worry, i don't bite! ;)  
-  
-
-- 🔭 I’m currently working on [Magic Players© and WolfArmaTech©](https://magicplayersmc.pl/)  
-  
-
-- 🌱 I’m currently learning Kubernetes, Docker and Firebase  
-  
-
-- ⚡ Fun fact: My night shift lasts a lifetime ;) ( Most of the time I work at night )  
+- I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
 
 
 </td><td valign="top" width="50%">
 
+
+
+### Glad to see you here$2!  
+- I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.  
+  
+
 <div align="center">
-<img src="https://magicplayersmc.pl/ftp/DANE/images_use_in_network/PoweredByScienceWolfMarkLogoconcept1.png" align="center" style="width: 100%" />
+<img src="https://magicplayersmc.pl/ftp/DANE/images_use_in_network/baner2.gif" align="center" style="width: 100%" />
 </div>  
 
 
@@ -122,26 +92,78 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Github Stats  
+
+### 🌐 ┃ Social accounts:  
+<div align="center">
+<a href="https://github.com/X" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://gitlab.com/X" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/X" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/X" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/X" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/X" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/X" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/X" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ScienceWolf666&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+- ❓ If you have any questions related to the technologies I use or about the Magic Players© network, don't be afraid to write to me, Psssstt! don't worry, i don't bite! ;)  
+  
+
+- 🔭 I’m currently working on [Magic Players© and WolfArmaTech©](https://magicplayersmc.pl/)  
+  
+
+- 🌱 I’m currently learning Kubernetes, Docker and Firebase  
+  
+
+- ⚡ Fun fact: My night shift lasts a lifetime ;) ( Most of the time I work at night )  
+
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScienceWolf666&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ScienceWolf666)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub metrics](https://metrics.lecoq.io/ScienceWolf666)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ScienceWolf666)  
+<div align="center">
+<img src="https://magicplayersmc.pl/ftp/DANE/images_use_in_network/PoweredByScienceWolfMarkLogoconcept1.png" align="center" style="width: 100%" />
+</div>  
 
 
 </td></tr></table>  
 
 <br/>  
 
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScienceWolf666&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ScienceWolf666&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+
+### ☕ ┃ Donation:  
 <div align="center">
             <a href="https://www.buymeacoffee.com/ScienceWolf" target="_blank" style="display: inline-block;">
                 <img
