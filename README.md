@@ -15,7 +15,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-# 🧾┃ About me!   
+## 🧾┃ About me!   
   
 
 
@@ -31,7 +31,7 @@
 
 
 
-### ✔┃ Support / Contact  
+## ✔┃ Support / Contact  
 - I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.  
   
 
