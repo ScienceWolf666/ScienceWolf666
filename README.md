@@ -147,9 +147,7 @@
 - 🌱 I’m currently learning Kubernetes, Docker and Firebase  
   
 
-- ⚡ Fun fact: My night shift lasts a lifetime ;) ( Most of the time I work at night )  
-
-
+- ⚡ Fun fact: My night shift lasts a lifetime ;) ( Most of the time I work at night )
 </td><td valign="top" width="50%">
 
 <div align="center">
