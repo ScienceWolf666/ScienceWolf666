@@ -1,9 +1,9 @@
-## <div align="center">Hi! 👋 My name is Michal, You can call me ScienceWolf 🤘</div>  
-  
 
 <div align="center">
 <img src="https://magicplayersmc.pl/FTP/DANE/images_use_in_network/Baner4_Magic_Players.png" align="center" style="width: 100%" />
 </div>  
+
+## <div align="center">Hi! 👋 My name is Michal, You can call me ScienceWolf 🤘</div> 
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/VishwaGauravIn/VishwaGauravIn/e2c956f864112ca5f82896fe851be394d6d1725a/github-contribution-grid-snake.svg" align="center" style="width: 100%" />
@@ -46,15 +46,20 @@
   
 </td><td valign="top" width="50%">
 
-## ✔┃ Support / Contact  
-- Writing/Creating in progress... ;) 
+## ┃ Other  
+
+- ❓ If you have any questions related to the technologies I use or about the Magic Players© network, don't be afraid to write to me, Psssstt! don't worry, i don't bite! ;)  
   
 
-- Writing/Creating in progress... ;)  
+- 🔭 I’m currently working on Magic Players© Network and MyHomeLAB-Network
   
+
+- 🌱 I’m currently learning Kubernetes, Docker and Firebase  
+  
+#
 
 <div align="center">
-<img src="https://magicplayersmc.pl/ftp/DANE/images_use_in_network/baner2.gif" align="center" style="width: 100%" />
+<img src="https://magicplayersmc.pl/ftp/DANE/images_use_in_network/PoweredByScienceWolfMarkLogoconcept1.png" align="center" style="width: 100%" />
 </div>  
 
 
@@ -114,11 +119,10 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="75" /></a>  
-</div>  
+</div> 
 
-<br/>  
-
-
+<br></br>
+#
 
 ### 🌐 ┃ Social accounts:  
 <div align="center">
@@ -148,31 +152,10 @@
 </a>  
 </div>  
   
+<br></br>
+#
 
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-- ❓ If you have any questions related to the technologies I use or about the Magic Players© network, don't be afraid to write to me, Psssstt! don't worry, i don't bite! ;)  
-  
-
-- 🔭 I’m currently working on [Magic Players© and WolfArmaTech©](https://magicplayersmc.pl/)  
-  
-
-- 🌱 I’m currently learning Kubernetes, Docker and Firebase  
-  
-
-- ⚡ Fun fact: My night shift lasts a lifetime ;) ( Most of the time I work at night )  
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://magicplayersmc.pl/ftp/DANE/images_use_in_network/PoweredByScienceWolfMarkLogoconcept1.png" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
+### 📊 ┃ Stats: 
 
 <table><tr><td valign="top" width="50%">
 
