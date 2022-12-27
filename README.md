@@ -4,7 +4,6 @@
 <div align="center">
 <img src="https://magicplayersmc.pl/FTP/DANE/images_use_in_network/Baner4_Magic_Players.png" align="center" style="width: 100%" />
 </div>  
-  
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/VishwaGauravIn/VishwaGauravIn/e2c956f864112ca5f82896fe851be394d6d1725a/github-contribution-grid-snake.svg" align="center" style="width: 100%" />
@@ -15,7 +14,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-## 🧾┃ About me!   
+## 🧾┃ About me
   
 
 
@@ -23,13 +22,29 @@
 ### Glad to see you here !  
 - I specialize in the management and administration of server and computer local networks. In the meantime, I run an IT server/community and players called "Magic Players©".  
   
-
-- Writing/Creating in progress... ;)  
-
-
+#
+  
+<div align="center">🔌 ┃ Technical specification of my main PC setup</div>
+  
+### 🖥 ┃ Main PC   
+- **OS:** Windows 10 PRO
+- **Graphics Card:** MSI GeForce RTX 2060 VENTUS OC
+- **Case:** MSI MPG Sekira 500P
+- **Power Supply:** SilentiumPC FM2 750W 80 Plus Gold
+- **Motherboard:** MSI MPG Z390 GAMING PRO CARBON AC
+- **Processor:** Intel® Core™ i9-9900KF ( 5.0 GHz )
+- **Water Cooling AIO:** MSI MAG Core Liquid 280R
+- **Other Cooling ( FAN-s in Case ):**
+- **RAM:**
+- **Mouse:**
+- **Keyboard:**
+- **Headphones:**
+- **Microphone:**
+- **System Memory:**
+- **Monitors:**
+- **VR headset:**
+  
 </td><td valign="top" width="50%">
-
-
 
 ## ✔┃ Support / Contact  
 - Writing/Creating in progress... ;) 
@@ -147,7 +162,7 @@
 - 🌱 I’m currently learning Kubernetes, Docker and Firebase  
   
 
-- ⚡ Fun fact: My night shift lasts a lifetime ;) ( Most of the time I work at night )
+- ⚡ Fun fact: My night shift lasts a lifetime ;) ( Most of the time I work at night )  
 </td><td valign="top" width="50%">
 
 <div align="center">
@@ -159,37 +174,6 @@
 
 <br/>  
 
-## **<div align="center">🔌 ┃ Hardware Technical Specifications of my setups</div>**  
-  
-<br/>  
-
-
-
-### 🖥 ┃ Main PC   
-- **OS:** Windows 10 PRO 
-- **Graphics Card:** MSI GeForce RTX 2060 VENTUS OC 
-
-
-
-### 🗄️ ┃ SERWER-HOME-1  
-- Writing/Creating in progress... ;) 
-  
-
-
-
-### 🗄️ ┃ SERWER-HOME-2  
-- Writing/Creating in progress... ;)  
-  
-
-
-
-### 🗄️ ┃ SERWER-HOME-3  
-- Writing/Creating in progress... ;)  
-  
-#
-
-<br/>  
-
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ScienceWolf666&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -197,6 +181,8 @@
 </td><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScienceWolf666&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+
+
 
 </td></tr></table>  
 
@@ -219,4 +205,3 @@
                 />
             </a></div>
 <br />
-
