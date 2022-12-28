@@ -34,15 +34,15 @@
 - **Motherboard:** MSI MPG Z390 GAMING PRO CARBON AC
 - **Processor:** Intel® Core™ i9-9900KF ( 5.0 GHz )
 - **Water Cooling AIO:** MSI MAG Core Liquid 280R
-- **Other Cooling ( FAN-s in Case ):**
-- **RAM:**
-- **Mouse:**
-- **Keyboard:**
-- **Headphones:**
-- **Microphone:**
-- **System Memory:**
-- **Monitors:**
-- **VR headset:**
+- **Other Cooling ( FAN-s in Case ):** 3x MSI MAG FORCE ARGB 120mm
+- **RAM:** Corsair Vengeance RGB Pro 32GB (4x8GB) DDR4 3200Mhz
+- **Mouse:** Razer Basilisk V3
+- **Keyboard:** Razer BlackWidow Elite Green Switch
+- **Headphones:** Beyerdynamic DT770 Pro 80Ohm
+- **Microphone:** Rode NT-USB mini
+- **System Memory:** HDD 1TB WD BLUE, SSD M.2 Plextor M9Pe 512GB, SSD Samsung 1TB M.2 PCIe NVMe 980
+- **Monitors:** 2x LG 24MP59G 75Hz
+- **VR headset:** Oculus Quest 2
   
 </td><td valign="top" width="50%">
 
