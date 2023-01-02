@@ -154,7 +154,8 @@
 </a>
 <a href="https://steamcommunity.com/id/Science_Wolf" target="_blank">
 <img src=https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-
+<a href="https://www.reddit.com/user/Science__Wolf/" target="_blank">
+<img src=https://camo.githubusercontent.com/e9d5a3511fae64eb869fa94d93623a9a04a8e6d0b424012ac28ad5f51edf4493/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265646469742d2532334646343530302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d526564646974266c6f676f436f6c6f723d7768697465 alt=youtube style="margin-bottom: 5px;" />
 
 </div>  
   
