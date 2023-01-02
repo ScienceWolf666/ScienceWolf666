@@ -54,7 +54,7 @@
 - 🔭 I’m currently working on Magic Players© Network and MyHomeLAB-Network
   
 
-- 🌱 I’m currently learning Kubernetes, Docker and Firebase  
+- 🌱 I’m currently learning Kubernetes, Docker and Proxmox VE  
   
 - 🌎 My Website!: https://magicplayersmc.pl/
 
