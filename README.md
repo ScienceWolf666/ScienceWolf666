@@ -1,4 +1,5 @@
 
+
 <div align="center">
 <img src="https://magicplayersmc.pl/FTP/DANE/images_use_in_network/Baner4_Magic_Players.png" align="center" style="width: 100%" />
 </div>  
@@ -20,8 +21,8 @@
 
 
 ### Glad to see you here !  
-- I specialize in the management and administration of server and computer local networks. In the meantime, I run an IT server/community and players called "Magic Players©".  
-  
+- I specialize in managing and administering local computer and server networks. In the meantime, I run a small discord server / community whose theme is mainly based on Technology (IT) and Computer Games called "Magic Players©". Sometimes I also deal with virtualization and containerization of network services and their hosting.
+- I also like to write (Front End) websites, mostly for larger projects I use graphic-block tools like ( WebFlow and Nicepage )
 #
   
 <div align="center">🔌 ┃ Technical specification of my main PC setup</div>
@@ -126,28 +127,28 @@
 
 ### 🌐 ┃ Social accounts:  
 <div align="center">
-<a href="https://github.com/X" target="_blank">
+<a href="https://github.com/ScienceWolf666" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/X" target="_blank">
+<a href="https://gitlab.com/ScienceWolf666" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/X" target="_blank">
+<a href="https://dev.to/sciencewolf" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/X" target="_blank">
+<a href="https://codepen.io/ScienceWolf666" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/X" target="_blank">
+<a href="https://stackoverflow.com/users/16275157/science-wolf?tab=profile" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/X" target="_blank">
+<a href="https://www.linkedin.com/in/sciencewolf/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/X" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100040958692866" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/X" target="_blank">
+<a href="https://www.youtube.com/channel/UCABzn-nURbBCKaav8fM1gMg" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
