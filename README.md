@@ -1,5 +1,4 @@
 
-
 <div align="center">
 <img src="https://magicplayersmc.pl/FTP/DANE/images_use_in_network/Baner4_Magic_Players.png" align="center" style="width: 100%" />
 </div>  
@@ -57,6 +56,8 @@
 
 - 🌱 I’m currently learning Kubernetes, Docker and Firebase  
   
+- 🌎 My Website!: https://magicplayersmc.pl/
+
 #
 
 <div align="center">
@@ -150,7 +151,11 @@
 </a>
 <a href="https://www.youtube.com/channel/UCABzn-nURbBCKaav8fM1gMg" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://steamcommunity.com/id/Science_Wolf" target="_blank">
+<img src=https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+
+
 </div>  
   
 <br></br>
