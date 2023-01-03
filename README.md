@@ -1,10 +1,10 @@
-## <div align="center">Hi! Welcome to my profile Internet traveler!</div> 
+## <div align="center">Hi! 👋 Welcome to my profile Internet traveler!</div> 
 
 <div align="center">
 <img src="https://magicplayersmc.pl/FTP/DANE/images_use_in_network/Baner4_Magic_Players.png" align="center" style="width: 100%" />
 </div>  
 
-## <div align="center">Hi! 👋 My name is Michal, You can call me ScienceWolf 🤘</div> 
+## <div align="center">My name is Michal, You can just call me ScienceWolf 🤘</div> 
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/VishwaGauravIn/VishwaGauravIn/e2c956f864112ca5f82896fe851be394d6d1725a/github-contribution-grid-snake.svg" align="center" style="width: 100%" />
