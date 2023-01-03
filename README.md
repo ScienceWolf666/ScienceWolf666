@@ -1,3 +1,4 @@
+## <div align="center">Hi! Welcome to my profile Internet traveler!</div> 
 
 <div align="center">
 <img src="https://magicplayersmc.pl/FTP/DANE/images_use_in_network/Baner4_Magic_Players.png" align="center" style="width: 100%" />
