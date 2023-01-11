@@ -198,5 +198,6 @@
 <br />
 
 #
-
+<div align="center">
 <img src="https://camo.githubusercontent.com/bbe13f3004e2eb0964f3957b6581b5d01acbac30e25bf6c52cc5ebe7a80d4170/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e69676874" width="512px" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" style="max-width: 100%;">  
+</div>
