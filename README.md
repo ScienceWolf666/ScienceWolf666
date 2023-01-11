@@ -1,7 +1,7 @@
 ## <div align="center">Hi! 👋 Welcome to my profile Internet traveler!</div> 
 
 <div align="center">
-<img src="https://magicplayersmc.pl/FTP/DANE/images_use_in_network/Baner4_Magic_Players.png" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/ScienceWolf666/ScienceWolf666/main/Baner4_Magic_Players.png" align="center" style="width: 100%" />
 </div>  
 
 ## <div align="center">My name is Michal, You can just call me ScienceWolf 🤘</div> 
