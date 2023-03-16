@@ -62,8 +62,8 @@
 #
 
 <div align="center">
-<img src="https://magicplayersmc.pl/ftp/DANE/images_use_in_network/PoweredByScienceWolfMarkLogoconcept1.png" align="center" style="width: 100%" />
-<img src="[https://magicplayersmc.pl/ftp/DANE/images_use_in_network/PoweredByScienceWolfMarkLogoconcept1.png](https://raw.githubusercontent.com/ScienceWolf666/MagicPlayersWebOfflinedatabackup/Main-Repository/WolfTechArma-Logoconcept1.png)" align="center" style="width: 100%" />
+<img src="https://magicplayersmc.pl/images/githubimg1.png" align="center" style="width: 100%" />
+<img src="[https://magicplayersmc.pl/images/githubimg1.png](https://raw.githubusercontent.com/ScienceWolf666/MagicPlayersWebOfflinedatabackup/Main-Repository/WolfTechArma-Logoconcept1.png)" align="center" style="width: 100%" />
 </div>
 
 
