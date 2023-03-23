@@ -62,7 +62,7 @@
 #
 
 <div align="center">
-<img src="https://magicplayersmc.pl/images/githubimg1.png" align="center" style="width: 100%" />
+<img src="https://magicplayersmc.pl/images/githubimg2.png" align="center" style="width: 100%" />
 <img src="[https://magicplayersmc.pl/images/githubimg1.png](https://raw.githubusercontent.com/ScienceWolf666/MagicPlayersWebOfflinedatabackup/Main-Repository/WolfTechArma-Logoconcept1.png)" align="center" style="width: 100%" />
 </div>
 
