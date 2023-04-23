@@ -72,6 +72,7 @@
 
 <img src="https://magicplayersmc.pl/images/ScienceWolf-AV_NEW_2.png" align="center" style="width: 90%" />
 <br>
+<br>
 
 </td></tr></table>  
 
