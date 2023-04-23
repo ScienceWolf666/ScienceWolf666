@@ -67,19 +67,16 @@
 <div align="center">
 <img src="https://magicplayersmc.pl/images/githubimg2.png" align="center" style="width: 100%" />
 
-<br><br>
+<br>
 <a href="https://status.magicplayersmc.pl/"><img src="https://img.shields.io/badge/Services_Status_Check_Dashboard-%E2%9A%A1_%7C_status.magicplayersmc.pl-2ea44f?logo=uptimekuma&logoColor=%235CDD8B" alt="Services Status Check Dashboard - ⚡ | status.magicplayersmc.pl"></a>
 
 <img src="https://magicplayersmc.pl/images/ScienceWolf-AV_NEW_2.png" align="center" style="width: 90%" />
-<br><br>
+<br>
+
 </td></tr></table>  
 
 </div>
-
-<br/>  
-
-
-
+ 
 ### 🛠 ┃ Languages, Technologies and software that I use / have used:
 #
 <div align="center">  
