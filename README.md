@@ -68,6 +68,7 @@
 <img src="https://magicplayersmc.pl/images/githubimg2.png" align="center" style="width: 100%" />
 
 <br>
+**━━━**
 
 <img src="https://magicplayersmc.pl/images/ScienceWolf-AV_NEW_2.png" align="center" style="width: 90%" />
 <br><br>
