@@ -191,7 +191,7 @@
 
 #
 
-### ☕ ┃ Donation:  
+### ☕ ┃ Donations:  
 <div align="center">
             <a href="https://www.buymeacoffee.com/ScienceWolf" target="_blank" style="display: inline-block;">
                 <img
