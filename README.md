@@ -65,7 +65,6 @@
 #
 
 <div align="center">
-  <img src="https://magicplayersmc.pl/Share_Public_Files/S.WOLF-BAD-CENZOR2.png" align="center" style="width: 100%" />
 <img src="https://magicplayersmc.pl/Share_Public_Files/S.WOLF-BAD-CENZOR2.png" align="center" style="width: 100%" />
 <br>
 <br>
