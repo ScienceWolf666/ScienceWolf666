@@ -65,7 +65,7 @@
 #
 
 <div align="center">
-<img src="https://magicplayersmc.pl/Share_Public_Files/S.WOLF-BAD-CENZOR2.png" align="center" style="width: 100%" />
+<img src="https://github.com/ScienceWolf666/MagicPlayers-Website-Assets/blob/Main-Repository/S.WOLF-BAD-CENZOR1.png" align="center" style="width: 100%" />
 <br>
 <br>
 
@@ -74,7 +74,7 @@
 <br>
 <br>
   
-<img src="https://magicplayersmc.pl/Share_Public_Files/S.WOLF-BAD-CENZOR1.png" align="center" style="width: 90%" />
+<img src="https://github.com/ScienceWolf666/MagicPlayers-Website-Assets/blob/Main-Repository/S.WOLF-BAD-CENZOR2.png" align="center" style="width: 90%" />
 <br>
 <br>
 
