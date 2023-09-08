@@ -73,10 +73,6 @@
 <img alt="Discord" src="https://img.shields.io/discord/655811070245470208?label=Magic%20Players%C2%A9&logo=discord&style=plastic">
 <br>
 <br>
-  
-<img src="https://github.com/ScienceWolf666/MagicPlayers-Website-Assets/blob/Main-Repository/S.WOLF-BAD-CENZOR2.png" align="center" style="width: 90%" />
-<br>
-<br>
 
 </td></tr></table>  
 
