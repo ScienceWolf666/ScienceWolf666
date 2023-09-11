@@ -65,7 +65,7 @@
 #
 
 <div align="center">
-<img src="https://github.com/ScienceWolf666/MagicPlayers-Website-Assets/blob/Main-Repository/S.WOLF-BAD-CENZOR1.png" align="center" style="width: 100%" />
+<img src="https://magicplayersmc.pl/images/SW1-AV-GIF.gif" align="center" style="width: 100%" />
 <br>
 <br>
 
