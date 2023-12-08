@@ -71,7 +71,7 @@
 
 <a href="https://status.magicplayersmc.pl/"><img src="https://img.shields.io/badge/Services_Status_Check_Dashboard-%E2%9A%A1_%7C_status.magicplayersmc.pl-2ea44f?logo=uptimekuma&logoColor=%235CDD8B" alt="Services Status Check Dashboard - ⚡ | status.magicplayersmc.pl"></a>
 <img alt="Discord" src="https://img.shields.io/discord/655811070245470208?label=Magic%20Players%C2%A9&logo=discord&style=plastic">
-<img src="https://magicplayersmc.pl/images/SW1-AV-GIF.gif" align="center" style="width: 100%" />
+<img src="https://magicplayersmc.pl/images/ScienceWolf-Background-BANER-LOGO.png" align="center" style="width: 100%" />
 <br>
 <br>
 
