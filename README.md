@@ -65,7 +65,7 @@
 #
 
 <div align="center">
-<img src="https://magicplayersmc.pl/images/SW1-AV-GIF.gif" align="center" style="width: 100%" />
+<img src="https://magicplayersmc.pl/images/Science_Wolf-AV-3.png" align="center" style="width: 100%" />
 <br>
 <br>
 
